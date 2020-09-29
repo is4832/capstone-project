@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=300px src="./express_app/public/assests/Pool.png" alt="Ridex-logo"></a>
+ <img width=300px src="./express_app/public/assests/Pool.png"></a>
 </p>
 
 <h3 align="center">Decentralized Taxi System</h3>
@@ -9,7 +9,7 @@
   <h3> Problem Statement</h3>
   <p>In most of the cities which have a wide local auto and taxi network deny ola and uber to enter that town/city/place. As drivers fear of slavery and reduced income, losing ownership and independence.</p>
 </div>
-------------------------------------------
+
 
 #### WebApp
 
@@ -35,7 +35,7 @@
 
 ### Note
 
-- This project was done under `36 hours with minimal pre-preparation`
+- This project is still in progress.
 
 ------------------------------------------
 ### Contributors
